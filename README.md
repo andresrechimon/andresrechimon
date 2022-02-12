@@ -31,7 +31,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://iconscout.com/" title="Postman"><img src="icons/postman.png" /></a> 
   
 <h3>Previously worked with:<h3/>
-
+<div>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="JQuery"><img src="icons/jquery.png" /></a> 
 <a href="https://iconscout.com/" title="Visual Studio"><img src="icons/visualstudio.png" /></a>  
@@ -44,7 +44,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://iconscout.com/" title="Azure DevOps"><img src="icons/azure.png" /></a> 
 <a href="https://iconscout.com/" title="SRUM"><img src="icons/scrum.png" /></a> 
-
+<div/>
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
