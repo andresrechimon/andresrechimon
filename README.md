@@ -12,8 +12,10 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <h3>Currently working with:<h3/>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://iconscout.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a> 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://iconscout.com/" title="HTML5"><img src="icons/html5.png" /></a>  
+<a href="https://iconscout.com/" title="CSS3"><img src="icons/css3.png" /></a>  
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
@@ -32,6 +34,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
+<a href="https://iconscout.com/" title="Java"><img src="icons/java.png" /></a> 
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <div/>
 <hr>
