@@ -1,8 +1,8 @@
 
 ### Hi there...
 <img align="left" src="https://orhun.dev/img/crow.png"> 
+Hi, I'm Andres Rechimon. I'm a programming student at UTN and a psychology student at UNC (both institutions in Córdoba, Argentina). On my resume you'll find what technologies I'm familiar with and a GitHub link where you can check out what projects I've been working on, React being my main focus right now. If I had to name a quality, I would say that it is the enthusiasm for study. I love to read and take courses in various areas of knowledge, so I have no problem getting training if the job requires it.
 <hr>
-
 <h3>Currently working with:<h3/>
 
 <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
