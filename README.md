@@ -38,7 +38,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://iconscout.com/" title="JQuery"><img src="icons/jquery.png" /></a> 
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://iconscout.com/" style="top: -10px" title="ASP.NET"><img src="icons/asp-48.png" /></a> 
+<a href="https://iconscout.com/" style = "position:relative; top:-10px" title="ASP.NET"><img src="icons/asp-48.png" /></a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
 <a href="https://iconscout.com/" title="Java"><img src="icons/java.png" /></a>
 <a href="https://iconscout.com/" title="SQL-Server"><img src="icons/sql-server.png" /></a> 
