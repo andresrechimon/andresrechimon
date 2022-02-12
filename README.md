@@ -10,7 +10,8 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <h4>If you like, here is my full CV: https://lnkd.in/dKjDbAHT<h4/>
 <hr>
 <h3>Currently working with:<h3/>
-
+  
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
@@ -21,10 +22,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 
 <h3>Learning:<h3/>
 
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
 <h3>Previously worked with:<h3/>
 
@@ -32,10 +30,6 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
-<a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
