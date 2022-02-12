@@ -1,7 +1,7 @@
 
 ### Hi there...
 <img align="left" src="https://orhun.dev/img/crow.png"> 
-<h4>Hi, I'm Andres Rechimon<h4/>. I'm a programming student at UTN and a psychology student at UNC (both institutions in Córdoba, Argentina). On my resume you'll find what technologies I'm familiar with and a GitHub link where you can check out what projects I've been working on, React being my main focus right now. If I had to name a quality, I would say that it is the enthusiasm for study. I love to read and take courses in various areas of knowledge, so I have no problem getting training if the job requires it.
+<h4>Hi, I'm Andres Rechimon.<h4/> I'm a programming student at UTN and a psychology student at UNC (both institutions in Córdoba, Argentina). On my resume you'll find what technologies I'm familiar with and a GitHub link where you can check out what projects I've been working on, React being my main focus right now. If I had to name a quality, I would say that it is the enthusiasm for study. I love to read and take courses in various areas of knowledge, so I have no problem getting training if the job requires it.
 <br/>
 <h4>What is my passion?<h4/>
 Fundamentally I am interested in the study of science, its technique and application in the technologies that facilitate our lives. The contribution of these sectors to our well-being is undeniable, as is their impact on human interactions, something that I am also very interested in understanding. I am very motivated, I want to work, dedicate myself and be part of this process.
