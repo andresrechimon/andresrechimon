@@ -2,6 +2,12 @@
 ### Hi there...
 <img align="left" src="https://orhun.dev/img/crow.png"> 
 Hi, I'm Andres Rechimon. I'm a programming student at UTN and a psychology student at UNC (both institutions in Córdoba, Argentina). On my resume you'll find what technologies I'm familiar with and a GitHub link where you can check out what projects I've been working on, React being my main focus right now. If I had to name a quality, I would say that it is the enthusiasm for study. I love to read and take courses in various areas of knowledge, so I have no problem getting training if the job requires it.
+
+What is my passion?
+Fundamentally I am interested in the study of science, its technique and application in the technologies that facilitate our lives. The contribution of these sectors to our well-being is undeniable, as is their impact on human interactions, something that I am also very interested in understanding. I am very motivated, I want to work, dedicate myself and be part of this process.
+I worked in other places apart from those that I mention in my CV, but I did not specify them because of the orientation of the CV. I have experience in administration and tax collection for real estate (1 year), as a commercial employee (3 years in total) and sporadic shifts in transportation of generator sets.
+
+If you like, here is my full CV: https://lnkd.in/dKjDbAHT
 <hr>
 <h3>Currently working with:<h3/>
 
