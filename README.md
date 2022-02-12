@@ -17,19 +17,21 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 <h3>Learning:<h3/>
 
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 
 <h3>Previously worked with:<h3/>
-
+  
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
