@@ -32,9 +32,9 @@ I worked in other places apart from those that I mention in my CV, but I did not
   
 <h3>Previously worked with:<h3/>
 <div>
+<a href="https://iconscout.com/" title="Visual Studio"><img src="icons/visualstudio.png" /></a>  
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="JQuery"><img src="icons/jquery.png" /></a> 
-<a href="https://iconscout.com/" title="Visual Studio"><img src="icons/visualstudio.png" /></a>  
 <a href="https://dotnet.microsoft.com/" title=".NET"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://iconscout.com/" title="ASP.NET"><img src="icons/asp.png" /></a> 
