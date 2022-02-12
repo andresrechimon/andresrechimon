@@ -55,4 +55,4 @@ I worked in other places apart from those that I mention in my CV, but I did not
 </p>
 <hr>
 
-<h2  align="center">�⬇️ Check out my repos ⬇️ </h2>
+<h2  align="center">⬇️ Check out my repos ⬇️ </h2>
