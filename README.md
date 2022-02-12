@@ -23,19 +23,28 @@ I worked in other places apart from those that I mention in my CV, but I did not
 
 
 <h3>Learning:<h3/>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://iconscout.com/" title="React Redux"><img src="icons/redux.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a> 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://iconscout.com/" title="Material-UI"><img src="icons/material-ui.png" /></a>
+<a href="https://iconscout.com/" title="Skeleton"><img src="icons/skeleton.png" /></a> 
+<a href="https://iconscout.com/" title="Postman"><img src="icons/postman.png" /></a> 
   
 <h3>Previously worked with:<h3/>
 <div>
 <a href="https://iconscout.com/" title="Visual Studio"><img src="icons/visualstudio.png" /></a>  
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+<a href="https://iconscout.com/" title="JQuery"><img src="icons/jquery.png" /></a> 
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<a href="https://iconscout.com/" title="ASP.NET"><img src="icons/asp.png" /></a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
-<a href="https://iconscout.com/" title="Java"><img src="icons/java.png" /></a> 
+<a href="https://iconscout.com/" title="Java"><img src="icons/java.png" /></a>
+<a href="https://iconscout.com/" title="SQL-Server"><img src="icons/sql-server.png" /></a> 
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<a href="https://iconscout.com/" title="Azure DevOps"><img src="icons/azure.png" /></a> 
+<a href="https://iconscout.com/" title="SRUM"><img src="icons/scrum.png" /></a> 
 <div/>
 <hr>
 <h2  align="center">📫 Reach me on</h2>
