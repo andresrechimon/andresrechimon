@@ -19,7 +19,6 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 
 
 <h3>Learning:<h3/>
@@ -27,7 +26,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a> 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://iconscout.com/" title="Material-UI"><img src="icons/material-ui.png" /></a>
+<a href="https://iconscout.com/" title="Material-UI"><img src="" /></a>
 <a href="https://iconscout.com/" title="Skeleton"><img src="icons/skeleton.png" /></a> 
 <a href="https://iconscout.com/" title="Postman"><img src="icons/postman.png" /></a> 
   
@@ -36,7 +35,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://iconscout.com/" title="Visual Studio"><img src="icons/visualstudio.png" /></a>  
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="JQuery"><img src="icons/jquery.png" /></a> 
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="https://dotnet.microsoft.com/" title=".NET"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://iconscout.com/" title="ASP.NET"><img src="icons/asp.png" /></a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
