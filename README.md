@@ -22,14 +22,14 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 
-**Learning:**
+<h3>Learning:<h3/>
 
 <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
 <a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 
-**Previously worked with:**
+<h3>Previously worked with:<h3/>
 
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
