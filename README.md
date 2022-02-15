@@ -1,7 +1,7 @@
 
 ### Hi there...
 <img align="left" src="https://orhun.dev/img/crow.png"> 
-<h4>Hi, I'm Andres Rechimon.<h4/> I'm a programming student at UTN and a psychology student at UNC (both institutions in Córdoba, Argentina). On my resume you'll find what technologies I'm familiar with and a GitHub link where you can check out what projects I've been working on, React being my main focus right now. If I had to name a quality, I would say that it is the enthusiasm for study. I love to read and take courses in various areas of knowledge, so I have no problem getting training if the job requires it.
+<h4>Hi, I'm Andres Rechimon.<h4/> I'm a programming student at UTN and a psychology student at UNC (both institutions in Córdoba, Argentina). On my resume you'll find what technologies I'm familiar with and a GitHub link where you can check out what projects I've been working on, Angular being my main focus right now. If I had to name a quality, I would say that it is the enthusiasm for study. I love to read and take courses in various areas of knowledge, so I have no problem getting training if the job requires it.
 <br/>
 <h4>What is my passion?<h4/>
 Fundamentally I am interested in the study of science, its technique and application in the technologies that facilitate our lives. The contribution of these sectors to our well-being is undeniable, as is their impact on human interactions, something that I am also very interested in understanding. I am very motivated, I want to work, dedicate myself and be part of this process.
@@ -11,6 +11,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <hr>
 <h3>Currently working with:<h3/>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://iconscout.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a> 
@@ -33,7 +34,6 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <h3>Previously worked with:<h3/>
 <div>
 <a href="https://iconscout.com/" title="Visual Studio"><img src="icons/visualstudio.png" /></a>  
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="JQuery"><img src="icons/jquery.png" /></a> 
 <a href="https://dotnet.microsoft.com/" title=".NET"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
