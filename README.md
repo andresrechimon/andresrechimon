@@ -23,6 +23,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 
 
 <h3>Learning:<h3/>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="React Redux"><img src="icons/redux.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a> 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
