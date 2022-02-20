@@ -7,7 +7,7 @@
 Fundamentally I am interested in the study of science, its technique and application in the technologies that facilitate our lives. The contribution of these sectors to our well-being is undeniable, as is their impact on human interactions, something that I am also very interested in understanding. I am very motivated, I want to work, dedicate myself and be part of this process.
 I worked in other places apart from those that I mention in my CV, but I did not specify them because of the orientation of the CV. I have experience in administration and tax collection for real estate (1 year), as a commercial employee (3 years in total) and sporadic shifts in transportation of generator sets.
 
-<h4>If you like, here is my full CV: https://lnkd.in/dZt46xKS<h4/>
+<h4>If you like, here is my full CV: https://lnkd.in/dsCTM9RV<h4/>
 <hr>
 <h3>Currently working with:<h3/>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
