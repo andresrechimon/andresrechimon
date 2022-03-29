@@ -10,6 +10,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <h4>If you like, here is my full CV: https://lnkd.in/dsCTM9RV<h4/>
 <hr>
 <h3>Currently working with:<h3/>
+  <a href="#" title="QuickType"><img src="icons/qt.png" /></a> 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="Angular Material"><img src="icons/angular-material.png" /></a>  
