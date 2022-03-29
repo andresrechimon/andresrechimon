@@ -12,7 +12,6 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <h3>Currently working with:<h3/>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://iconscout.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a> 
 <a href="https://iconscout.com/" title="HTML5"><img src="icons/html5.png" /></a>  
