@@ -10,6 +10,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <h4>If you like, here is my full CV: https://lnkd.in/dsCTM9RV<h4/>
 <hr>
 <h3>Currently working with:<h3/>
+<div>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="Angular Material"><img src="icons/angular-material.png" /></a>
@@ -22,7 +23,8 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://iconscout.com/" title="CSS3"><img src="icons/css3.png" /></a>  
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://iconscout.com/" title="Postman"><img src="icons/postman.png" /></a> 
+<a href="https://iconscout.com/" title="Postman"><img src="icons/postman.png" /></a>
+</div>
 
 
 <h3>Learning:<h3/>
