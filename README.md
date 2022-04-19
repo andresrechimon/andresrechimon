@@ -15,7 +15,6 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://iconscout.com/" title="Angular Material"><img src="icons/angular-material.png" /></a>
 <a href="https://iconscout.com/" title="PrimeNg"><img src="icons/primeng.png" /></a>  
-<a href="#" title="QuickType"><img src="icons/qt.png" /></a> 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://iconscout.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a> 
@@ -24,6 +23,7 @@ I worked in other places apart from those that I mention in my CV, but I did not
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://iconscout.com/" title="Postman"><img src="icons/postman.png" /></a>
+  <a href="#" title="QuickType"><img src="icons/qt.png" /></a> 
 </div>
 
 
